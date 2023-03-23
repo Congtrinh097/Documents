@@ -1,15 +1,15 @@
-* Questions Bank *
+# Questions Bank
 
 - Could you share about your last project?
  In my last project, i work on a tax management project. 
  The technical tasks in this project is C#,  .NET Core, SQL Database and Angular for Frontend.
  It is structured on the microservices architecture system.
  
-How many person in this project?
+- How many person in this project?
  In this project my team has 14 members, 5 for BE, 5 for FE 2 for Testers, 2 for BA for the first period
  and go down to 8 for the last
  
-What do you do in this project?
+- What do you do in this project?
  In this project. My responsiblity is:
 	Get requirement for BA  (Bussiness Analysis) to implement code and review code for others members. 
 	Sometime support others members if they have stuck in the solution.
